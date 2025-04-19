@@ -1,0 +1,7 @@
+{
+  "name": "whatsupcph-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-ical": "^0.15.0"
+  }
+}
